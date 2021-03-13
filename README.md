@@ -1,0 +1,2 @@
+# PHEV-modeling-MATLAB
+This repo contains the relevant MATLAB code to model and design powertrain for a PHEV and to that extent; it involves finding the power required and energy consumption for a glider vehicle, a conventional vehicle and a full electric vehicle and sizing components optimally. Components like engine, motor, battery pack are modelled individually then combined together as a complete powertrain.
